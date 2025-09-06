@@ -1,51 +1,43 @@
-#  Budget vs Actual Sales Dashboard – DEPI Project
+# 📊 Budget vs Actual Dashboard – DEPI
 
-**Developed as part of the Digital Egypt Pioneers Initiative (DEPI)**
-
----
-
-##  Project Objectives
-- Analyze Actual vs Budget sales performance
-- Monitor variance both in absolute terms and percentage
-- Highlight outperforming and underperforming products
-- Provide actionable insights for strategic decisions
+**Developed as part of the Digital Egypt Pioneers Initiative (DEPI)**  
 
 ---
 
-##  Key Metrics
-
-| Metric                     | Value           |
-|---------------------------|-----------------|
-|  Actual Sales            | $45.72M         |
-|  Budget Sales            | $45.91M         |
-|  Variance ($)            | –$193.22K       |
-|  Variance (%)            | –0.42%          |
-|  Top Product (Variance)  | Carlota (+0.48%) |
-|  Bottom Product (Variance)| Aspen (–1.56%) |
+## 🚀 Overview
+An interactive **Power BI dashboard** analyzing **Budget vs Actual Sales Variance**.  
+Designed to monitor KPIs, track performance, and highlight product-level insights.  
 
 ---
 
-##  Key Insights & Recommendations
-- **Carlota** outperformed budget—opportunity for continued investment.
-- **Aspen** underperformed—requires review of promotional or supply strategy.
-- Overall variance is slight, but key product-level variances call for targeted responses.
+## 🎯 Highlights
+- 📈 **Variance Analysis** → Actual vs Budget (absolute + %)  
+- 🛍️ **Product Insights** → Top/underperforming products  
+- 📊 **Time Intelligence** → Monthly & quarterly trends  
+- 🎛️ **Interactive Filters** → Product & Date slicers  
 
 ---
 
-##  Deliverables
--  Power BI `.pbix` file  
--  Processed Excel dataset (`.xlsx`)  
--  Documentation (ETL, Data Model, DAX, Visuals)  
--  Dashboard screenshot (`.png`)  
+## 📈 Key Insights
+- Overall performance: **–0.42% variance**  
+- **Carlota** outperformed (+0.48%)  
+- **Aspen** underperformed (–1.56%)  
+- Variances show where strategy adjustments are needed  
 
 ---
 
-##  Connect With Me
-I’m passionate about leveraging data for smarter decisions.  
-Let’s connect on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+## 📎 Deliverables
+- ✅ Power BI `.pbix` file  
+- ✅ Dataset (`Excel`)  
+- ✅ Documentation (`PDF`)  
+- ✅ Dashboard Screenshot  
 
 ---
 
-**★ Thank you for visiting and feel free to explore more!**
+## 🔗 Connect
+👤 Mohammad Ahmed Ayman  
+💼 [LinkedIn](https://www.linkedin.com/in/mohammad-ahmed-ayman-11000a319)  
+🚀 Part of [Digital Egypt Pioneers Initiative (DEPI)](https://depi.gov.eg)  
 
+---
 
