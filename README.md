@@ -27,8 +27,7 @@ Designed to monitor KPIs, track performance, and highlight product-level insight
 ---
 
 ## 📎 Deliverables
-- ✅ Power BI `.pbix` file  
-- ✅ Dataset (`Excel`)  
+- ✅ Power BI `.pbix` file    
 - ✅ Documentation (`PDF`)  
 - ✅ Dashboard Screenshot  
 
